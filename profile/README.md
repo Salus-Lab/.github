@@ -26,7 +26,7 @@ To Provide affordable yet topnotch Security Services for Organizations of any si
 2) Awareness Capmagins 
 
 ### Our Product 
-![Demeter Logo](profile/img/Demeter_logo.png)
+![Demeter Logo](https://github.com/Salus-Lab/.github/blob/adaad10404d8de6d98b7d3f83c636573f1ecb1e8/profile/img/Demeter_logo.png)
 
 Our Security Operation Center (SOC) as Service ready to be spawned and start monitoring the assets to increase the Security of the organization
 
