@@ -1,0 +1,3 @@
+# Image Directory 
+
+Nothing Important
