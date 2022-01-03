@@ -34,4 +34,5 @@ Our Security Operation Center (SOC) as Service ready to be spawned and start mon
 1) If You are not hacked doesn't mean you are secure. Hackers didn't know about you yet 
 2) It all comes down to 1 click to get compromised 
 3) Even if you spent millions still your are not secure
-4) The best security is securing the mentality of your employees 
+4) The best security done by Your Employees so keep them updated and Aware with all Attacks
+5) Sharing IOCs is for the best of all to stay protected.
