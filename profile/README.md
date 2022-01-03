@@ -31,7 +31,7 @@ To Provide affordable yet topnotch Security Services for Organizations of any si
 Our Security Operation Center (SOC) as Service ready to be spawned and start monitoring the assets to increase the Security of the organization
 
 ### Fun Facts
-1) Your are not Secure if you didn't get hacked 
+1) If You are not hacked doesn't mean you are secure. Hackers didn't know about you yet 
 2) It all comes down to 1 click to get compromised 
 3) Even if you spent millions still your are not secure
 4) The best security is securing the mentality of your employees 
